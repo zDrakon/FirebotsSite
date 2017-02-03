@@ -1,0 +1,11 @@
+.budget-table .label td{
+	padding: 10px;
+}
+
+.budget-table .price td {
+	padding: 10px;
+}
+
+.budget-table table {
+	width: 100%;
+}

@@ -1,0 +1,2 @@
+#PHP code in HTML file
+AddType fcgid-script .php .htm .html .phtml
